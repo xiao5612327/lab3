@@ -39,6 +39,22 @@ body {
 .jumbotron p.active {
      color: #1f6ddd;
 }
-.project a {
+.Friends a {
+     margin-left: 0px;
+    background-color: #deebf7;
+    padding: 10px;
+    width: 100px;
+}
+.Topic a{
+     margin-left: 375px;
+    background-color: #deebf7;
+    padding: 50px;
+    width: 200px;
+}
+
+.TopicHeader{
+     text-align: center;
+}
+.PlayButton{
      text-align: center;
 }
